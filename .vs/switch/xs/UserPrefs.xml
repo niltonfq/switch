@@ -6,13 +6,24 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="switch" expanded="True" selected="True" />
+          <Node name="switch" expanded="True" selected="True">
+            <Node name="2 - Infra" expanded="True">
+              <Node name="2.2 - Data" expanded="True" />
+            </Node>
+            <Node name="3 - Application" expanded="True">
+              <Node name="Switch.Application" expanded="True" />
+            </Node>
+            <Node name="4 - API" expanded="True">
+              <Node name="Switch.API" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.4_220-_220API.Switch.API FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4_220-_220API.Switch.API PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.3_220-_220Application.Switch.Application FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

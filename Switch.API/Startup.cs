@@ -12,6 +12,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Switch.Infra.Data.Context;
 
+//dotnet ef migrations add InitialMigration -s ../Switch.API/
+
 namespace Switch.API
 {
     public class Startup
