@@ -7,7 +7,18 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="switch" expanded="True" selected="True" />
+          <Node name="switch" expanded="True">
+            <Node name="2 - Infra" expanded="True">
+              <Node name="2.2 - Data" expanded="True">
+                <Node name="Switch.Infra.Data" expanded="True" selected="True">
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="4 - API" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
