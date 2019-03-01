@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F0C7B561-46FE-4A59-9860-84EF3E3F4B6F}|Default">
+  <MonoDevelop.Ide.ItemProperties.1_220-_220Tests.Switch.Domain.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Status do switch">
+    <Files>
+      <File FileName="Status do switch" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="switch" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4_220-_220API.Switch.API FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.0_220-_220Domain.Switch.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3_220-_220Application.Swith.Application FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2_220-_220Infra.2.2_220-_220Data.Switch.Infra.Data FirstBuild="True" />
+</Properties>
