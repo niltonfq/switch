@@ -13,6 +13,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Switch.Infra.Data.Context;
 
 //dotnet ef migrations add InitialMigration -s ../Switch.API/
+//dotnet ef database update
 
 namespace Switch.API
 {

@@ -1,10 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
 using Switch.Domain.Enums;
 
 namespace Switch.Domain.Entities
 {
     public class Usuario
     {
+        public Usuario()
+        {
+        }
         public int Id { get; private set; }
         public string Nome { get; set; }
         public string SobreNome { get; set; }
@@ -13,9 +17,8 @@ namespace Switch.Domain.Entities
         public DateTime DataNascimento { get; set; }
         public SexoEnum Sexo { get; set; }
         public string UrlFoto { get; set; }
-
-        public Usuario()
-        {
-        }
+        public virtual Identificacao Identificacao { get; set; }
+        public virtual ICollection<Postagem> Postagens { get; set; }
+        public virtual ICollection<UsuarioGrupo> UsuarioGrupos { get; set; }
     }
 }
